@@ -1,1 +1,1 @@
-# Parkinsson-disease
+# Parkinsson-disease classifier
